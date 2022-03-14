@@ -6,6 +6,11 @@ hash = "28bb1d5f48456c9c78599e37c8c52e2a87fd30ef90bb7fcb1db24a6abd40d697"
 metafile = true
 
 [[files]]
+file = "mods/fabric-api.toml"
+hash = "d42c9c22fa6c8350c8d31652b0bb34f58b9d33033ad74f8b938588a116bd10e5"
+metafile = true
+
+[[files]]
 file = "mods/ferritecore-fabric.toml"
 hash = "328ab993a9721cd5a0a87b3aedaf45ad8fb86210b42daa5f04a544fcf1f52604"
 metafile = true
