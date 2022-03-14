@@ -1,0 +1,46 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/chunky.toml"
+hash = "28bb1d5f48456c9c78599e37c8c52e2a87fd30ef90bb7fcb1db24a6abd40d697"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore-fabric.toml"
+hash = "328ab993a9721cd5a0a87b3aedaf45ad8fb86210b42daa5f04a544fcf1f52604"
+metafile = true
+
+[[files]]
+file = "mods/krypton.toml"
+hash = "219d4425679c60fd2855a6a39a6fccb6db3948dcc57b9da7c20907c855c5bd3d"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.toml"
+hash = "ea127e8f74006f3a9ce099f9e96adaa3b3f4f281231ece703c4e7f9732137ebd"
+metafile = true
+
+[[files]]
+file = "mods/lithium.toml"
+hash = "8243fcb2221942db16259a029d2964ca41d7a336fccc60464597d9f0d6699529"
+metafile = true
+
+[[files]]
+file = "mods/notenoughcrashes.toml"
+hash = "2ed09c99ce518bb51f6bc954d8300f2496db356a0376b287bf2fc85eaf5bbb38"
+metafile = true
+
+[[files]]
+file = "mods/smooth-boot.toml"
+hash = "0bb8efa177ff2c5b54bb0bcbadf5e5fd2ae57c0cb71e533e7d8b896f12d9af4b"
+metafile = true
+
+[[files]]
+file = "mods/starlight.toml"
+hash = "722031c0ae5d2de71783d6c4bfbf1c5cd25c65e55cb42d8bb4f7cadf478c4368"
+metafile = true
+
+[[files]]
+file = "mods/tabtps.toml"
+hash = "6b5cc538bb76a4a15dd0a6e313f0cc3f9dc55e119b3e7dcb4d0c9d42801f0f15"
+metafile = true
